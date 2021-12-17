@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Bi_14_SCD_Wizard_Performance", "Bi_14_SCD_Wizard_Performance.dtproj", "{D81E126E-D0FC-44DD-A3BE-B016145530D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D81E126E-D0FC-44DD-A3BE-B016145530D1}.Development|Default.ActiveCfg = Development
+		{D81E126E-D0FC-44DD-A3BE-B016145530D1}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AE76FC5-1FD0-4588-8DBA-DB9BBAED8BF2}
+	EndGlobalSection
+EndGlobal
